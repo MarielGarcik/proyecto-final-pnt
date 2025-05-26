@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Contarla_Para_Vivir_PNT
+build_property.RootNamespace = Contarla_Para_Vivir_PNT
+build_property.ProjectDir = /Users/mariegarcik/Desktop/Contarla Para Vivir PNT/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/mariegarcik/Desktop/Contarla Para Vivir PNT
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/Views/Cursos/DosisLiterarias.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3Vyc29zL0Rvc2lzTGl0ZXJhcmlhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/Views/Cursos/Empresarte.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3Vyc29zL0VtcHJlc2FydGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/Views/Cursos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3Vyc29zL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/Views/Cursos/Mentorias.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3Vyc29zL01lbnRvcmlhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/Views/Cursos/Oratoria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3Vyc29zL09yYXRvcmlhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/Views/Cursos/TalleresLiterarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3Vyc29zL1RhbGxlcmVzTGl0ZXJhcmlvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/Views/Home/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/Views/Home/Calendario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DYWxlbmRhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/Views/Home/Contacto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250YWN0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/Views/Home/DosisLiterarias.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Eb3Npc0xpdGVyYXJpYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/Views/Home/Foro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Gb3JvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/Views/Home/MaterialGratuito.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9NYXRlcmlhbEdyYXR1aXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/Views/Home/QuienesSomos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9RdWllbmVzU29tb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/Views/Home/Reviews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9SZXZpZXdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-n0eff0vluz

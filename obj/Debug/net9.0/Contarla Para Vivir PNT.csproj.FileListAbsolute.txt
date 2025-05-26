@@ -1,0 +1,97 @@
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/bin/Debug/net9.0/appsettings.Development.json
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/bin/Debug/net9.0/appsettings.json
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/bin/Debug/net9.0/Contarla Para Vivir PNT.staticwebassets.runtime.json
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/bin/Debug/net9.0/Contarla Para Vivir PNT.staticwebassets.endpoints.json
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/bin/Debug/net9.0/Contarla Para Vivir PNT
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/bin/Debug/net9.0/Contarla Para Vivir PNT.deps.json
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/bin/Debug/net9.0/Contarla Para Vivir PNT.runtimeconfig.json
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/bin/Debug/net9.0/Contarla Para Vivir PNT.dll
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/bin/Debug/net9.0/Contarla Para Vivir PNT.pdb
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/Contarla Para Vivir PNT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/Contarla Para Vivir PNT.AssemblyInfoInputs.cache
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/Contarla Para Vivir PNT.AssemblyInfo.cs
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/Contarla Para Vivir PNT.csproj.CoreCompileInputs.cache
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/Contarla Para Vivir PNT.MvcApplicationPartsAssemblyInfo.cache
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/Contarla Para Vivir PNT.RazorAssemblyInfo.cache
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/Contarla Para Vivir PNT.RazorAssemblyInfo.cs
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/scopedcss/bundle/Contarla Para Vivir PNT.styles.css
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/scopedcss/projectbundle/Contarla Para Vivir PNT.bundle.scp.css
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/smw4wo5gfr-61n19gt1b8.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/ael0c5n7f5-bqjiyaj88i.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/2ci98xzcm9-c2jlpeoesf.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/qiqe5e4kll-erw9l3u2r3.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/n9o3v7edq9-aexeepp0ev.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/nb70cr8aew-d7shbmvgxk.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/xp4njvibn8-ausgxo2sd3.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/lqptqrkfr4-k8d9w2qqmf.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/rw4pdrjfvt-cosvhxvwiu.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/kdn1hs19pq-ub07r2b239.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/vi5uw43m65-fvhpjtyr6v.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/8504g9xf6w-b7pk76d08c.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/4up2fmftgt-fsbi9cje9m.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/h2rz4w037i-rzd6atqjts.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/gghzcfcxeh-ee0r1s7dh0.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/ij2728dukl-dxx9fxp4il.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/08of1eblue-jd9uben2k1.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/z6q8fxeyi2-khv3u5hwcm.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/k6rjvxybuv-r4e9w2rdcm.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/elcbkfol8o-lcd1t2u6c8.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/qo701mm67z-c2oey78nd0.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/1l15kaial5-tdbxkamptv.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/jd1h1lf6nm-j5mq2jizvt.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/7c9qnc9sd8-06098lyss8.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/weiq3may3t-nvvlpmu67g.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/o2atpksns6-s35ty4nyc5.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/m8hl62t31y-pj5nd1wqec.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/qdoag0b52p-46ein0sx1k.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/cki55b0ann-v0zj4ognzu.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/su8j2p4ncw-37tfw0ft22.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/fezh3cj5hs-hrwsygsryq.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/k8hmlsliau-pk9g2wxc8p.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/fr8vz1f89z-ft3s53vfgj.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/6l84qqv112-6cfz1n2cew.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/bxw7gd1suh-6pdc2jztkx.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/unk00mkjsl-493y06b0oq.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/n1glr4l078-iovd86k7lj.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/witolyp57m-vr1egmr9el.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/mcttvh9lfd-kbrnm935zg.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/sibj1rg0k7-jj8uyg4cgr.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/zjl7yuel6w-y7v9cxd14o.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/n7edsqrc7a-notf2xhcfb.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/cz4f6wu7so-h1s4sie4z3.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/m3gxipqteg-63fj8s7r0e.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/cantv5pc6p-0j3bgjxly4.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/qnxt3g70ug-47otxtyo56.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/8rz9cfmhvi-4v8eqarkd7.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/zaqixak9xg-356vix0kms.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/rcvvwy2a3c-83jwlth58m.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/mtfihwkqnj-mrlpezrjn3.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/a89r2jygfy-lzl9nlhx6b.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/8so4vc09gt-ag7o75518u.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/8ihp1aw784-x0q3zqp4vz.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/ozxas9ljh6-0i3buxo5is.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/yxhmfvddq1-o1o13a6vjx.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/a4hg2s89q1-ttgo8qnofa.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/gyri46aws3-2z0ns9nrw6.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/px93q7t8it-muycvpuwrr.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/99a1funddo-87fc7y1x7t.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/hafn0egatk-mlv21k5csn.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/lmn4np2wpq-iewi055qb6.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/bibw1cm389-iewi055qb6.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/staticwebassets.build.json
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/staticwebassets.development.json
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/staticwebassets/msbuild.Contarla Para Vivir PNT.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/staticwebassets/msbuild.Contarla Para Vivir PNT.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/staticwebassets/msbuild.build.Contarla Para Vivir PNT.props
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Contarla Para Vivir PNT.props
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Contarla Para Vivir PNT.props
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/Contarla Para Vivir PNT.dll
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/refint/Contarla Para Vivir PNT.dll
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/Contarla Para Vivir PNT.pdb
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/Contarla Para Vivir PNT.genruntimeconfig.cache
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/ref/Contarla Para Vivir PNT.dll
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/40c6kgzfn6-vxj3a4iwaf.gz
+/Users/mariegarcik/Desktop/Contarla Para Vivir PNT/obj/Debug/net9.0/compressed/2bex394uoa-o2gfj9acto.gz
